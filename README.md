@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Laurent</h1>
-<h3 align="center">I am currently working as a Cloud Solution Architect Engineering @Microsoft.</h3>
+<h3 align="center">I am currently working as a Cloud Solution Architect @Microsoft.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lavanack&label=Profile%20views&color=0e75b6&style=flat" alt="lavanack" /> </p>
 
