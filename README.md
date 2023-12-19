@@ -21,3 +21,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lavanack&show_icons=true&locale=en" alt="lavanack" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lavanack&" alt="lavanack" /></p>
+
+![](./profile-3d-contrib/profile-green-animate.svg)
